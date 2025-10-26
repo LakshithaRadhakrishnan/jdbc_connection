@@ -1,0 +1,19 @@
+# Java
+*.class
+*.log
+*.tmp
+
+# Environment files
+.env
+
+# Folders
+/lib/
+/bin/
+/out/
+/target/
+/venv/
+/__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
